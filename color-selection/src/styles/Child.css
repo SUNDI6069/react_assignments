@@ -1,0 +1,21 @@
+.fix-box {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border: 1px white dotted;
+    border-radius: 5px;
+    color: white;
+}
+#section{
+    text-align: center;
+}
+#master{
+    border-radius: 5px;
+    border: 2px white ridge;
+    width: 100%;
+}
+
+.subheading{
+    color: white;
+    text-align: center;
+}
